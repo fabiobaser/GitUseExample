@@ -9,6 +9,7 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController {
+    IBOutlet UILabel *fakelabel;
     IBOutlet UIButton *what;
 }
 
